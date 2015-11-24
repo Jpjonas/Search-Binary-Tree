@@ -90,7 +90,7 @@ void menu(pABB p)
         { 
 	 system("clear");
 	 printf("\n");
-	 puts("0:sair         1:inserir          2:remover             3:buscar  ");
+	 puts("0:sair         1:Abrir TXT          2:remover             3:buscar  ");
          puts("4:reiniciar    5:perc. em ordem   6:perc. em pos-ordem  7:perc. em pre-ordem");  
 	 puts("8:ABB vazia? ");
 	 printf("\n:>");	
